@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "profile_picture"
+rootProject.name = "Profile_upload_page"
